@@ -2,9 +2,9 @@
 
 - name: Kwame Kyei Boateng
   role: Digital Artist
-  img: __location__of__image
+  img: https://avatars2.githubusercontent.com/u/24490786?s=460&v=4
   bio: Drawn to the interdisciplinary. Fascinated by human-machine interaction and communication and non-traditional interfaces. Aim to bridge the gaps between the traditional and digital arts and the digital and physical worlds.
-  url: __personal__website
+  github: kwamekb
   visible: true
 
 - name: Mario Garingo
