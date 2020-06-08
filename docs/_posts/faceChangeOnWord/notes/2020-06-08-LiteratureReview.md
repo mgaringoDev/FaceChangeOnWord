@@ -13,6 +13,6 @@ sidebar:    faceChangeOnWord_sidebar
 
 ## Image Processing
 ### Libraries
-	- Kwame found the following resources on computer vision:
-		- Tensorflow 2
-		- OpenCV 4 
+- Kwame found the following resources on computer vision:
+	- Tensorflow 2
+	- OpenCV 4 
