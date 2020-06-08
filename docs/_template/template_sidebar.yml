@@ -1,0 +1,49 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: template Project
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Project Description
+      url: /template_intro.html
+      output: web, pdf
+      type: homepage
+
+    - title: Notes
+      url: /template_notes.html
+      output: web, pdf
+
+    - title: Codes
+      url: /template_codes.html
+      output: web, pdf    
+
+    - title: Reporting
+      url: /template_reporting.html
+      output: web, pdf 
+
+    - title: Documentation
+      url: /template_documentation.html
+      output: web, pdf
+    
+    - title: Members
+      url: /template_members.html
+      output: web, pdf    

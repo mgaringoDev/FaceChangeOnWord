@@ -1,0 +1,47 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: MlAiCs
+  folders:
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: To Do
+      url: /home_toDo.html
+      output: web, pdf
+
+    - title: Workflows
+      url: /home_workflows.html
+      output: web, pdf        
+  
+    - title: Notes
+      url: /faceChangeOnWord_notes.html
+      output: web, pdf
+
+    - title: Codes
+      url: /faceChangeOnWord_codes.html
+      output: web, pdf  
+
+    - title: Reporting
+      url: /faceChangeOnWord_reporting.html
+      output: web, pdf 
+
+    - title: Documentation
+      url: /faceChangeOnWord_documentation.html
+      output: web, pdf  
+
+    - title: Members
+      url: /home_members.html
+      output: web, pdf
+
+    - title: Acknowledgements
+      url: /home_acknowledgments.html
+      output: web, pdf

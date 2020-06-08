@@ -1,0 +1,18 @@
+# Members
+
+- name: Kwame Kyei Boateng
+  role: __What__you_want_to_be_called
+  img: __location__of__image
+  bio: Brief bio
+  url: __personal__website
+  visible: true
+
+- name: Mario Garingo
+  role: Signal Analysist / Bio-medical Engineer
+  img: https://mgaringodev.github.io/assets/img/myphoto_cropped.jpg
+  bio: My expertise lie in the analysis of various biological, acoustic and image signals. Though very knowledgeable in machine learning techniques my skill set is primarily honed in extracting meaningful information from various time series signals. My philosophy is understanding the underlying cause of the problem rather than creating a block box approach to solving it.
+  url: https://mgaringodev.github.io/
+  visible: true
+   
+
+
