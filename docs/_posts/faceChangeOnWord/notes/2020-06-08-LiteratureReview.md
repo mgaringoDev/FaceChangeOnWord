@@ -19,6 +19,7 @@ sidebar:    faceChangeOnWord_sidebar
 - [How To Apply Computer Vision to Build an Emotion-Based Dog Filter in Python 3](https://www.digitalocean.com/community/tutorials/how-to-apply-computer-vision-to-build-an-emotion-based-dog-filter-in-python-3)
 - [Curated Machine Learning Reports](https://app.wandb.ai/gallery)
 - [Face change](https://www.youtube.com/watch?v=dBukZZqJRm0)
+- [How to Perform Face Detection with Deep Learning](https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/)
 - [CV Examples for p5.js](https://kylemcdonald.github.io/cv-examples/)
 - [Face Tracking Using clmtrackr](https://glitch.com/~dfpi-face-track)
 - [Face Tracking Using clmtrackr 2](https://glitch.com/edit/#!/rebel-muskox?path=README.md%3A1%3A0)
